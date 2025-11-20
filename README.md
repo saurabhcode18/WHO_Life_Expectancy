@@ -19,8 +19,13 @@ The best-performing model in this project was: Linear Regression
 
 Technologies Used:
 Python
+
 Pandas
+ 
 NumPy
+
 Scikit-Learn
+
 Seaborn / Matplotlib
+
 Jupyter Notebook
