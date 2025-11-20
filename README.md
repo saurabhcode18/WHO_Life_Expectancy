@@ -15,7 +15,8 @@ Interpretation:
 The model explains 80.9% of the variation in life expectancy across countries
 
 
-Technologies Used
+Technologies Used:
+
 Python
 
 Pandas
